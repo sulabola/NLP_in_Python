@@ -18,4 +18,4 @@ The second part introduces neural networks and modern NLP advancements such as t
 
 **Udemy Course:** Natural Language Processing in Python
 
-**Instructors:** Alice Zhao (Python Expert & Data Science Instructor, Maven Analytics)
+**Instructor:** Alice Zhao (Python Expert & Data Science Instructor, Maven Analytics)
