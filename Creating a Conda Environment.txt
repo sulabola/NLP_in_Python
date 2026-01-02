@@ -1,0 +1,50 @@
+First open "Anaconda Prompt"
+
+Type: conda env list
+
+This will show environments available. If we have not created anything before, we will have the "base" environment.
+Note: "*" indicates the active environment
+
+To view the packages available in the environment type: conda list
+
+-- Create an environment
+
+Let's assume we are creating a environment called "test_env"
+
+Type: conda create --name test_env
+
+Proceed ([y]/n)? y
+
+This will create a new environment
+
+We can verify this by typing: conda env list
+
+Now, in addition to "base" environment we will see "test_env" in the list. However, this is not active yet (check the "*")
+
+To activate the environment type: (base) C:\Users\my_name>conda activate test_env
+
+Then: (test_env) C:\Users\my_name>
+
+To view the packages type: conda list
+
+There will be no packages as we just created this.
+
+Let's install some packages:
+
+(test_env) C:\Users\my_name>conda install pandas
+
+This will also install all the dependencies. Once agree it will install pandas with all the dependencies.
+
+Now type: conda list
+
+We can see that all the packages are there now.
+
+Now the environment is ready. Let's launch jupyter notebook
+
+Note: if it says jupyter notebook is not available, we can install it by typing "conda install jupyter notebook"
+
+Note: When we are working on jupyter notebook and we want to install a new package ("spacy"), comeback to the Anaconda Prompt and open a new window.
+
+You will in the base environment. We can change that by typing: conda activate test_env
+
+To deactivate an environment: conda deactivate
