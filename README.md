@@ -10,7 +10,7 @@ The second part introduces neural networks and modern NLP advancements such as t
 
 ### Programming Language
 
-[Python](https://www.python.org/downloads/) / [Jupyter Notebook](https://jupyter.org/install)
+[Anaconda](https://www.anaconda.com/download) / [Python](https://www.python.org/downloads/) / [Jupyter Notebook](https://jupyter.org/install)
 
 ---
 
