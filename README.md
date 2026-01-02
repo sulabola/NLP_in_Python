@@ -14,6 +14,12 @@ The second part introduces neural networks and modern NLP advancements such as t
 
 ---
 
+### Creating a Conda Environment.txt
+
+This file provides basic instructions and codes to create a new environment, activate/deactivate an environment, and install relevant packages.
+
+---
+
 ### Reference
 
 **Udemy Course:** Natural Language Processing in Python
