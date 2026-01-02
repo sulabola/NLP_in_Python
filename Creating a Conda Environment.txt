@@ -39,7 +39,7 @@ Now type: conda list
 
 We can see that all the packages are there now.
 
-Now the environment is ready. Let's launch jupyter notebook
+Now the environment is ready and we can launch the jupyter notebook
 
 Note: if it says jupyter notebook is not available, we can install it by typing "conda install jupyter notebook"
 
