@@ -22,7 +22,7 @@ This file provides basic instructions and codes to create a new environment, act
 
 ### Chapter 1 - Natural Language Processing
 
-This chapter introduces the fundamentals of Natural Language Processing (NLP), including what NLP is, how it relates to Artificial Intelligence, and real-world examples of how computers work with text data. It also provides a brief history of NLP from early rule-based systems to today’s transformer-based LLMs, outlines common NLP applications such as sentiment analysis, classification, topic modeling, summarization, and text generation, and gives an overview of key Python libraries used throughout the course (pandas, spaCy, scikit-learn, VADER, and Hugging Face Transformers).
+This chapter introduces the fundamentals of Natural Language Processing (NLP), including what NLP is, how it relates to Artificial Intelligence, and real-world examples of how computers work with text data. It also provides a brief history of NLP from early rule-based systems to today’s transformer-based LLMs, outlines common NLP applications such as sentiment analysis, classification, topic modeling, summarization, and text generation, and gives an overview of key Python libraries used throughout the course (pandas, spaCy, scikit-learn, VADER, and Transformers).
 
 ---
 
