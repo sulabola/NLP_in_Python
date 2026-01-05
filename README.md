@@ -14,6 +14,12 @@ The second part introduces neural networks and modern NLP advancements such as t
 
 ---
 
+### Data
+
+Sample datasets used in the exercises are available in the `Data` folder of the repository. Each dataset corresponds to the examples provided in the notebooks.
+
+---
+
 ### Creating a Conda Environment.txt
 
 This file provides basic instructions and codes to create a new environment, activate/deactivate an environment, and install relevant packages.
