@@ -9,7 +9,7 @@ To view the packages available in the environment type: conda list
 
 -- Create an environment
 
-Let's assume we are creating a environment called "test_env"
+Let's assume we are creating an environment called "test_env"
 
 Type: conda create --name test_env
 
