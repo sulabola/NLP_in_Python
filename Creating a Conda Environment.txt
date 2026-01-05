@@ -35,6 +35,8 @@ Let's install some packages:
 
 This will also install all the dependencies. Once agree it will install pandas with all the dependencies.
 
+Note: We can also install multiple packages at once: conda install pandas jupyter notebook matplotlib
+
 Now type: conda list
 
 We can see that all the packages are there now.
@@ -48,3 +50,5 @@ Note: When we are working on jupyter notebook and we want to install a new packa
 You will in the base environment. We can change that by typing: conda activate test_env
 
 To deactivate an environment: conda deactivate
+
+We can also install multiple packages at once.
