@@ -32,6 +32,12 @@ This chapter introduces the fundamentals of Natural Language Processing (NLP), i
 
 ---
 
+### Chapter 2 – Text Preprocessing
+
+This chapter focuses on the text preprocessing pipeline required for Natural Language Processing (NLP) tasks. It covers core preprocessing steps such as text ``cleaning``, ``normalization``, ``tokenization``, ``lemmatization``, ``stop-word`` removal, and ``part-of-speech tagging`` using both ``pandas`` and ``spaCy``. The chapter also introduces text ``vectorization`` techniques, including ``Count Vectorization`` and ``TF-IDF``, with detailed explanations of their parameters and practical Python implementations for transforming raw text into numerical features suitable for machine learning models.
+
+---
+
 ### Reference
 
 **Udemy Course:** Natural Language Processing in Python
