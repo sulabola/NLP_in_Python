@@ -38,6 +38,12 @@ This chapter focuses on the text preprocessing pipeline required for Natural Lan
 
 ---
 
+### Chapter 3 – NLP with Machine Learning
+
+This chapter explores how traditional machine learning methods are applied to Natural Language Processing (NLP). It introduces key machine learning concepts for NLP, reviews common algorithms used for text-based tasks, and compares traditional NLP workflows with modern transformer-based approaches. Practical applications covered include ``sentiment analysis``, supervised ``text classification`` using algorithms such as ``Naïve Bayes``, and unsupervised ``topic modeling`` using ``Non-Negative Matrix Factorization (NMF)``, highlighting how vectorized text features can be used to train and evaluate predictive models.
+
+---
+
 ### Reference
 
 **Udemy Course:** Natural Language Processing in Python
