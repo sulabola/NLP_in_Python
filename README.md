@@ -44,6 +44,12 @@ This chapter explores how traditional machine learning methods are applied to Na
 
 ---
 
+### Chapter 4 – Neural Networks & Deep Learning
+
+This chapter introduces the fundamentals of neural networks and deep learning as the building blocks of modern NLP. It begins with a logistic regression refresher and then explains key neural network components such as layers, nodes, weights, activation functions, and matrix-based computations. The chapter also demonstrates how to build and train neural networks in Python, discusses how deep learning extends these concepts through deeper architectures, and provides an overview of common deep learning architectures and the role of pretrained deep learning models in NLP applications.
+
+---
+
 ### Reference
 
 **Udemy Course:** Natural Language Processing in Python
