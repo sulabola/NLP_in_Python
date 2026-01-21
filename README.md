@@ -50,6 +50,12 @@ This chapter introduces the fundamentals of neural networks and deep learning as
 
 ---
 
+### Chapter 5 – Transformers and LLMs
+
+This chapter focuses on modern Natural Language Processing (NLP) techniques powered by Transformers and Large Language Models (LLMs). It covers the key components of the transformer architecture, including embeddings, attention mechanisms, and feedforward neural networks, and explains how these layers work together to model language effectively. The chapter also discusses the roles of encoders and decoders, highlights different transformer model types, and provides foundational notes on how LLMs are built and applied in real-world NLP tasks.
+
+---
+
 ### Reference
 
 **Udemy Course:** Natural Language Processing in Python
