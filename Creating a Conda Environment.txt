@@ -53,8 +53,8 @@ To deactivate an environment: conda deactivate
 
 We can also install multiple packages at once: conda install pandas numpy matplotlib
 
+To delete a environment: conda env remove --name test_env
 
 Note: In some cases, needed packages are not available in the default anaconda channel. Then we can install them using alternative channels. For an example, let's assume we want to install 'vaderSentiment' package. This is not available through default channel. It is available in the 'conda-forge' channel. Then we can try the command: conda install -c conda-forge vaderSentiment. This channel is maintained by the community.
-
 
 To use the English models with spaCy, we need to install them first: python -m spacy download en_core_web_sm
