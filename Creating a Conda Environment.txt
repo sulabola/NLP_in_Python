@@ -85,6 +85,13 @@ In this case, we can clean the cashe: conda clean --all
 
 
 
+--- Issues When Installing Packages to a Existing Environment ---
+
+When we are installing packages to a existing environment (contain some packages already), we might get some errors regarding incompatibility.
+In that case we can install the packages using pip command: pip install transformers
+
+
+
 --- Install Packages Not Available in Default Anaconda Channel ---
 
 In some cases, needed packages are not available in the default anaconda channel.
