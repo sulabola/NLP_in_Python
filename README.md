@@ -56,6 +56,12 @@ This chapter focuses on modern Natural Language Processing (NLP) techniques powe
 
 ---
 
+### Chapter 6 – Transformers with Hugging Face
+
+This chapter provides hands-on experience using the ``Hugging Face Transformers`` library to apply pretrained ``Large Language Models (LLMs)`` to real-world NLP tasks. It covers ``sentiment analysis`` with LLMs, including performance ``timing``, ``logging``, and ``device setup``, as well as comparing sentiment scores and techniques to ``speed up transformer code``. The chapter also introduces ``Named Entity Recognition (NER)`` through a ``basic NER pipeline``, demonstrates how to clean and interpret NER outputs, and explores the ``Hugging Face Model Hub``. Additional applications include ``zero-shot classification``, ``text summarization``, ``text generation`` using multiple pipelines, and semantic analysis through ``document embeddings``, ``cosine similarity``, and ``document similarity``.
+
+---
+
 ### Reference
 
 **Udemy Course:** Natural Language Processing in Python
